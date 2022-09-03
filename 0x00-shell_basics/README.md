@@ -1,1 +1,1 @@
-mkdir/tmp/my_first_directory >> 6-firstdirectory
+Move the file betty from /tmp/ to /tmp/my_first_directory.
